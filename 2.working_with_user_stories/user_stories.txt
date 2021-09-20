@@ -1,0 +1,17 @@
+nouns:
+user
+bike
+docking station 
+
+verbs
+
+find customers
+ride a bike
+releas a bike
+check if bike is working 
+
+Objects  | Messages
+------------- | -------------
+Customer  | find_by_surname , ride a bike
+bike  | check if bike is a working bike
+docking station | releas a bike
