@@ -1,0 +1,4 @@
+class Dockingstation
+  
+    
+end     
