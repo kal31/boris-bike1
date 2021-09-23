@@ -36,7 +36,7 @@ In this challenge, you will run a Feature Test to test the above. It will fail, 
 
 - [ ] Start `irb` (or another REPL such as :pill: [Pry](https://github.com/makersacademy/course/blob/main/pills/pry.md))
 - [ ] Instantiate a `DockingStation` as `docking_station`
-- [ ] Ask `docking_station` to release a bike, and save the response to a variable `bike`
+- [ ] Ask `docking_station` to release a bike, and save the response to a variable `bike`bok
 - [ ] Ask the `bike` if it is `working?`
 - [ ] Explain the error to your pair partner
 - [ ] Create a new spec file for a `Bike` class

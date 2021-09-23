@@ -35,7 +35,7 @@ In this challenge, you will deliver the completed feature from the first two use
 - [ ] Explain the error to your pair partner
 - [ ] Add a test to your DockingStation specification that a) gets a bike, and then b) expects the bike to be working
 - [ ] Make this test pass
-- [ ] Feature-test the feature again.
+- [ ] Feature-test the feature again
 
 ### Hints
 

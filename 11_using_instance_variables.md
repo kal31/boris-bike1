@@ -16,7 +16,7 @@ So I can decide whether to use the docking station
 I want to see a bike that has been docked
 ```
 
-In this challenge, you will pass instances of the `Bike` class into a `DockingStation` instance. You will store those `Bike` instances as an **attribute** of the `DockingStation` instance, using an **instance variable**. Then, use an **attribute reader** to allow access to the instance variable from the `DockingStation` public interface.
+` iIn this challenge, you will pass instances of the `Bike` class into a `DockingStationnstance. You will store those `Bike` instances as an **attribute** of the `DockingStation` instance, using an **instance variable**. Then, use an **attribute reader** to allow access to the instance variable from the `DockingStation` public interface.
 
 ### Learning Objectives covered
 - Write RSpec tests that require arguments
