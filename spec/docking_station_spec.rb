@@ -21,6 +21,18 @@ describe Dockingstation do
     end   
   end 
 
+  context 'dock bike in docking station' do
+    it 'dock bike' do 
+      docking_station = Dockingstation.new
+      bike = Bike.new
+      docking_station.dock(bike)
+  
+      expect(docking_station.bike).to eq bike
+
+    end 
+
+  end   
+
    
 
 
